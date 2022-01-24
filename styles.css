@@ -44,10 +44,12 @@ main {
   margin: 1rem;
   border-radius: 15px;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  width: 300x;
+  aspect-ratio: 1;
 }
 img {
-  width: 300x;
-  height: 300px;
 }
 .title {
   font-weight: 700;
