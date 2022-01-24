@@ -13,8 +13,8 @@ body {
 }
 .attribution {
   position: absolute;
-  margin-top: 85vh;
-  font-size: 15px;
+  margin-top: 80vh;
+  font-size: 17px;
   text-align: center;
   color: hsl(220, 15%, 55%);
 }
