@@ -1,15 +1,4 @@
-.attribution {
-  position: absolute;
-  margin-top: 75vh;
-  font-size: 15px;
-  text-align: center;
-  color: hsl(220, 15%, 55%);
-}
-.attribution a {
-  text-decoration: none;
-  font-size: 17px;
-  color: hsl(218, 44%, 22%);
-}
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -22,6 +11,19 @@ body {
   margin: 0;
   font-family: "Outfit", sans-serif;
 }
+.attribution {
+  position: absolute;
+  margin-top: 85vh;
+  font-size: 15px;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
+.attribution a {
+  text-decoration: none;
+  font-size: 17px;
+  color: hsl(218, 44%, 22%);
+}
+
 section {
   background-color: hsl(212, 45%, 89%);
   height: 100vh;
@@ -33,7 +35,7 @@ section {
 .card {
   background-color: white;
   width: 320px;
-  border-radius: 15px;
+  border-radius: 20px;
   height: auto;
   overflow: hidden;
   text-align: center;
@@ -48,16 +50,13 @@ img {
   height: 300px;
 }
 .title {
-  font-style: bold;
-  font-size: 18px;
+  font-weight: 700;
+  font-size: 1.5rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  padding: 0 1.1rem;
-  padding-top: 0.5rem;
+  margin: 1rem 2rem;
 }
 .main-text {
-  padding: 1.5rem;
-  padding-bottom: 3.5rem;
+  margin: 1rem 2rem 2rem;
   color: hsl(220, 15%, 55%);
-  letter-spacing: 1px;
 }
