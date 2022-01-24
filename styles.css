@@ -1,5 +1,6 @@
 .attribution {
-  padding-top: 3rem;
+  position: absolute;
+  margin-top: 75vh;
   font-size: 15px;
   text-align: center;
   color: hsl(220, 15%, 55%);
