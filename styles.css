@@ -24,7 +24,7 @@ body {
   color: hsl(218, 44%, 22%);
 }
 
-section {
+main {
   background-color: hsl(212, 45%, 89%);
   height: 100vh;
   display: flex;
