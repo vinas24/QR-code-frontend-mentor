@@ -31,7 +31,7 @@ section {
 }
 .card {
   background-color: white;
-  width: 340px;
+  width: 320px;
   border-radius: 15px;
   height: auto;
   overflow: hidden;
@@ -43,17 +43,16 @@ section {
   overflow: hidden;
 }
 img {
-  width: 315x;
-  height: 315px;
+  width: 300x;
+  height: 300px;
 }
 .title {
   font-style: bold;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
   padding: 0 1.1rem;
   padding-top: 0.5rem;
-  letter-spacing: 1px;
 }
 .main-text {
   padding: 1.5rem;
